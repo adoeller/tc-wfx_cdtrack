@@ -1,4 +1,5 @@
 # wfx_cdtrack
+![cdtrack](cdtrack.png)
 
 `wfx_cdtrack` is a Total Commander 11.x file-system plugin for Windows. It
 shows every optical drive, exposes audio-CD tracks as virtual audio files,
