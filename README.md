@@ -1,4 +1,6 @@
 # wfx_cdtrack
+
+![settings](track-settings.png)
 ![cdtrack](cdtrack.png)
 
 `wfx_cdtrack` is a Total Commander 11.x file-system plugin for Windows. It
